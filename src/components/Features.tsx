@@ -14,7 +14,7 @@ const features = [
   {
     icon: <ShoppingBag className="h-8 w-8 text-zw-green-500" />,
     title: 'Track Your Groceries',
-    description: 'Easily add groceries with their expiry dates to keep track of what's in your pantry and fridge.'
+    description: "Easily add groceries with their expiry dates to keep track of what's in your pantry and fridge."
   },
   {
     icon: <CalendarClock className="h-8 w-8 text-zw-green-500" />,
@@ -39,7 +39,7 @@ const features = [
   {
     icon: <Smartphone className="h-8 w-8 text-zw-green-500" />,
     title: 'Mobile Notifications',
-    description: 'Stay informed with timely notifications on your phone, making it easy to manage groceries even when you're on the go.'
+    description: "Stay informed with timely notifications on your phone, making it easy to manage groceries even when you're on the go."
   }
 ];
 
