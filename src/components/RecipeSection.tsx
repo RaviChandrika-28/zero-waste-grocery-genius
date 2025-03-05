@@ -41,7 +41,7 @@ const RecipeSection = () => {
   return (
     <div className="space-y-6">
       <h2 className="text-xl font-medium flex items-center">
-        <UtensilisCrossed className="h-5 w-5 mr-2 text-zw-green-500" />
+        <UtensilsCrossed className="h-5 w-5 mr-2 text-zw-green-500" />
         Recipe Suggestions
       </h2>
       
