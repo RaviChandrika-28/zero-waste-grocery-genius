@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
-import { UtensilisCrossed, Clock, ChefHat, ArrowRight } from 'lucide-react';
+import { UtensilsCrossed, Clock, ChefHat, ArrowRight } from 'lucide-react';
 import { RecipeSuggestion } from '@/types';
 
 // Mock recipe data

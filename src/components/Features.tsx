@@ -5,7 +5,7 @@ import {
   CalendarClock, 
   Scan, 
   Bell, 
-  UtensilisCrossed, 
+  UtensilsCrossed, 
   Smartphone 
 } from 'lucide-react';
 import { setupScrollAnimations } from '@/utils/animations';
@@ -32,7 +32,7 @@ const features = [
     description: 'Get customized reminders via email or phone before your groceries expire, so you can use them in time.'
   },
   {
-    icon: <UtensilisCrossed className="h-8 w-8 text-zw-green-500" />,
+    icon: <UtensilsCrossed className="h-8 w-8 text-zw-green-500" />,
     title: 'Recipe Suggestions',
     description: 'Receive AI-powered recipe suggestions based on groceries nearing expiration, helping you use ingredients creatively.'
   },
